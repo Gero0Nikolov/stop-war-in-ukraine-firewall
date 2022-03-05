@@ -11,7 +11,7 @@ License: GPLv2
 class SWIU {
 
     function __construct() {
-        
+
         // Front Scripts
         add_action('wp_enqueue_scripts', [$this, 'swiuFrontAreaResources']);
 

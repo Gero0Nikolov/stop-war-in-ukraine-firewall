@@ -5,7 +5,7 @@ It integrates the [redirectrussia.org](https://redirectrussia.org/) thirdparty f
 
 ## Instalation:
 1) Clone the repository to your local / website server **wp-content/plugins** folder.
-2) Active the plugin through the WP Dashboard.
+2) Activate the plugin through the WP Dashboard.
 3) That's it!
 
 ## Usage:

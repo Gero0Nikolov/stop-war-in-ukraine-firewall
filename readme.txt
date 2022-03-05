@@ -12,7 +12,7 @@ This plugin will allow you to pin posts and feature them as "Breaking News" at t
 
 == Description ==
 
-Stop War In Ukraine or SWIU,<br>
+Stop War In Ukraine - Firewall,<br>
 simply installs a firewall that restricts Russian traffic from your website. Together we can stop the madness of war!
 It integrates the <a href="https://redirectrussia.org/" target="_blank">redirectrussia.org</a> thirdparty functionality within any WordPress based website, with just a click.
 

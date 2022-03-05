@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Stop War In Ukraine
+Plugin Name: Stop War In Ukraine - Firewall
 Description: Plugin simply installs a firewall that restricts Russian traffic from your website. Together we can stop the madness of war!
 Version: 1.0
 Author: GeroNikolov

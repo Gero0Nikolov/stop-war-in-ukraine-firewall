@@ -1,6 +1,6 @@
-# Stop War In Ukraine - WordPress Plugin
+# Stop War In Ukraine Firewall - WordPress Plugin
 
-The SWIU WP Plugin simply installs a firewall that restricts Russian traffic from your website. Together we can stop the madness of war!
+The Stop War In Ukraine Firewall WP Plugin simply installs a firewall that restricts Russian traffic from your website. Together we can stop the madness of war!
 It integrates the [redirectrussia.org](https://redirectrussia.org/) thirdparty functionality within any WordPress based website, with just a click.
 
 ## Instalation:
